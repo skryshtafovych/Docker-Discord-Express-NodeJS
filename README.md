@@ -20,4 +20,4 @@ You have a working local Copy of PRJ.
 
 
 ## Want to learn more about it?
-Want to learn more about how this solution actually works and how I implemented it? Feel free to read the [medium article](https://medium.com/p/e46d9e4257b1/edit)!
+Want to learn more about how this solution actually works and how I implemented it? Feel free to read the [medium article](https://medium.com/@skryshtafovych/discord-express-node-js-f4acd68a6b75)!
