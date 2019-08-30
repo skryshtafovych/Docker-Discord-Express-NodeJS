@@ -6,7 +6,7 @@ Have you recently built a web app and wished to conduct some external controls o
 ## How it works in a nutshell
 
 ## Prerequisite
-- [Create Bot Token](https://github.com/skryshtafovych/docker-den/wiki/Creating-Discord-Bot)
+- [Create Bot Token](https://github.com/skryshtafovych/Docker-Discord-Express-NodeJS/wiki/Creating-BOT)
 - Node.js
 - Docker
 - NPM
